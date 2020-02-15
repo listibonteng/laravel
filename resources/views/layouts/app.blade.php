@@ -35,13 +35,18 @@
                     <ul class="navbar-nav mr-auto">
                         <li>
                             <a href="{{route('kelas.index')}}">Daftar Kelas</a>
-                        &nbsp
-
                         <li>
+                    </ul>
+
+                    <ul class="navbar-nav mr-auto">     
+                        </li>
                             <a href="{{route('mapel.index')}}">Mata Pelajaran</a>
+                        <li>
+                    </ul>
+                            <a href="{{route('siswa.index')}}">Daftar Siswa</a>
                         </li>
                     </ul>
-</li>
+                    </li>
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->

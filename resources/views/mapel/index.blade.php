@@ -23,8 +23,8 @@
                         <table class="table">
                             <thead>
                                 <tr>
+                                    <th>No</th>
                                     <th>MAPEL</th>
-                                    <th>Guru MAPEL</th>
                                     <th colspan="3">Aksi</th>
                                 </tr>
                             </thead>
